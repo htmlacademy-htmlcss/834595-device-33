@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Alexander Mityukov](https://up.htmlacademy.ru/htmlcss/33/user/834595).
-* Наставник: `Анастасия Красавина`.
+* Наставник: [Анастасия Красавина](https://htmlacademy.ru/profile/id186775).
 
 ---
 
